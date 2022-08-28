@@ -1,4 +1,4 @@
-package lambdaIfadeleri;
+package _03_lambdaIfadeleri;
 @FunctionalInterface
 
 public interface Calculate2 {

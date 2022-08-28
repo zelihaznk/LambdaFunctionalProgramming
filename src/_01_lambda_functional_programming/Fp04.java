@@ -1,4 +1,4 @@
-package lambda_functional_programming;
+package _01_lambda_functional_programming;
 
 import java.util.stream.IntStream;
 

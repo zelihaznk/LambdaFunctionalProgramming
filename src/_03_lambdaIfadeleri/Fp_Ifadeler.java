@@ -1,7 +1,4 @@
-package lambdaIfadeleri;
-
-import java.util.Arrays;
-import java.util.List;
+package _03_lambdaIfadeleri;
 
 public class Fp_Ifadeler {
 

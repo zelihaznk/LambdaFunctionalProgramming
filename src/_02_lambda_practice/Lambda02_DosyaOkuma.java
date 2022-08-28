@@ -1,6 +1,5 @@
-package lambda_practice;
+package _02_lambda_practice;
 
-import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;

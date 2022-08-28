@@ -1,4 +1,4 @@
-package lambda_practice;
+package _02_lambda_practice;
 
 public class C0_Lambda_Aciklamalar {
       /*

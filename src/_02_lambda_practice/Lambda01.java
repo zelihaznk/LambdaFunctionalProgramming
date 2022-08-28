@@ -1,4 +1,4 @@
-package lambda_practice;
+package _02_lambda_practice;
 
 import java.util.*;
 import java.util.stream.Stream;

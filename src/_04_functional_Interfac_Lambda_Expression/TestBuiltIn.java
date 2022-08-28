@@ -1,4 +1,4 @@
-package functional_Interfac_Lambda_Expression;
+package _04_functional_Interfac_Lambda_Expression;
 
 public class TestBuiltIn {
 

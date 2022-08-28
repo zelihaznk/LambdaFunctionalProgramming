@@ -1,4 +1,4 @@
-package lambdaIfadeleri;
+package _03_lambdaIfadeleri;
 
 public class Main3 {
 

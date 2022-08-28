@@ -1,6 +1,4 @@
-package lambda_practice;
-
-import java.util.stream.IntStream;
+package _02_lambda_practice;
 
 public class Lambda03 {
     //TASK 01 --> Structured Programming ve Functional Programming ile 1'den x'e kadar
